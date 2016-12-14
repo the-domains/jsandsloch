@@ -1,0 +1,26 @@
+typography_spectrum: 0.6739072853233665
+color:
+  brandStrength: 0.7292185965925455
+  lightness: 0.9774620106909424
+  saturation: 0.579221906606108
+  rhythmicContrast: 0.3958935937844217
+  brandColors:
+    - '#020202'
+    - '#FFFEE8'
+    - '#1152CE'
+    - '#FF817A'
+    - '#782A1E'
+github: true
+layout_spectrum: 0.8453021764289588
+name: jsandsloch
+title: j sands loch
+content: []
+description: observations from other universes
+purpose:
+  - type: external
+    url: >-
+      https://www.amazon.com/Surfing-Multiverse-Increasing-Happiness-Universe/dp/1519771169
+    label: Learn to surf
+  - type: contact
+    url: 'mailto:jsan@jsandsloch.com'
+    label: Contact me
